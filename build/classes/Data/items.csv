@@ -1,0 +1,9 @@
+name,type,code,cost,availability,username
+Jessica Jones,Book,653006,5.0,false,lol
+Doctor Who,Book,741190,5.0,true,library
+Intel vs AMD,Journal,598658,10.0,true,library
+Jessica Jones,Book,19132,10.0,false,admin
+james bond,Book,102531,15.0,false,admin
+abdi,Book,785116,11.0,true,library
+Harry Potter,Book,145471,15.0,true,library
+Matilida,Book,589878,10.0,true,library
